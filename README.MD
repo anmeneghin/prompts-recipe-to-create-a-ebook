@@ -68,7 +68,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/57951450?s=48&v=4"
+      src="https://avatars.githubusercontent.com/u/57951450?v=4"
     />
     <p>&nbsp&nbsp&nbspAmanda Nogueira Meneghin<br>
     &nbsp&nbsp&nbsp
